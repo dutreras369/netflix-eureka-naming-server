@@ -1,4 +1,4 @@
-package cl.paseodelasdelicias.microservices.netflixeureka;
+package cl.cloud.app.netflixeureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

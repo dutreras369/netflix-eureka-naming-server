@@ -8,7 +8,7 @@
 		<version>2.7.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cl.paseodelasdelicias.microservices</groupId>
+	<groupId>cl.cloud.app.netflixeureka</groupId>
 	<artifactId>netflix-eureka-naming-server</artifactId>
 	<version>1.0</version>
 	<name>netflix-eureka-naming-server</name>
